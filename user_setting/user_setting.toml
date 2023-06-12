@@ -1,0 +1,33 @@
+[config]
+    username = 'ddo_2j4'
+    ip = 'mcfallout.net'
+[settings]
+    whitelist = ["ddddo"]
+    publicity = false
+    publicity_content = ["123",'test']    #同一個輪迴，適用同時要發抽獎訊息和交易訊息等
+    interval = 605000
+    log = true
+[gamble]
+    emerald_range = [0,1000]
+    coin_range = [0,10]
+    odds = 1.85
+    protect_odds = 2
+    redstone_position = [2464,98,6501]
+    check_position = [2467,99,6501]
+    itemId = [179,194]
+
+[discord_setting]
+    discord_bot = true
+    token = "a123456789123456789"  #勿外流
+    guildID = '123456789123456789'   #群組ID，頭像右鍵
+    bot_status = true                #狀態頁
+    bot_status_channel_name = '狀態'
+    message_log = true               #訊息頁
+    only_claim = false               #只保留[領地] [系統] [附近]
+    message_log_channel_name = '訊息'
+    betting_log = true               #與金流相關，包含下注、簽到、領錢
+    betting_log_channel_name = '下注狀態'
+    notice_log = true                #包含DC綁定、轉帳錯誤(但現在這個壞了)
+    notice_log_channel_name = '通知'
+
+    #請填頻道"名稱"
