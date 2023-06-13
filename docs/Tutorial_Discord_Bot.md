@@ -1,8 +1,8 @@
-# Didcord Bot設定教學
+# Discord Bot設定教學
 
-[**初次設定(創建Discord Bot)**](#step1)
+[**初次設定(創建Discord Bot)**](Tutorial_Discord_Bot.md#step1)
 
-[**邀請已建立的Bot進入伺服器**](#step5)
+[**邀請已建立的Bot進入伺服器**](Tutorial_Discord_Bot.md#step5)
 
 ## Step1.
 

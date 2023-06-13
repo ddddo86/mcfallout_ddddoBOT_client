@@ -6,11 +6,11 @@
 
 無法正常使用的狀況分為3種
 
--[小黑窗消失](#小黑窗消失)
+[小黑窗消失](#小黑窗消失)
 
--[小黑窗還在，但顯示斷線或其他畫面]
+[小黑窗還在，但顯示斷線或其他畫面]
 
--[小黑窗都正常，但Bot沒反應]
+[小黑窗都正常，但Bot沒反應]
 
 ### 小黑窗消失
 
@@ -18,7 +18,7 @@
 
 -Microsoft驗證問題，請嘗試重新開啟。若仍舊無法使用，請往下方原因繼續排錯
 
--設定檔在錯誤的位置，請參考[這裡](Tutorial_Setting.md#step2)
+-設定檔在錯誤的位置，請參考 [這裡](Tutorial_Setting.md#step2)
 
 -設定檔格式錯誤，請檢查該有的逗號、括號、引號 皆有補上
 
@@ -28,7 +28,7 @@
 
 ### 如何使用PowerShell
 
-點擊電腦搜尋欄位，搜尋`Powershell`
+點擊電腦搜尋欄位，搜尋`PowerShell`
 
 ![image](https://github.com/ddddo86/mcfallout_ddddoBOT_client/blob/main/docs/pic/powershell_open.jpg)
 
