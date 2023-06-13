@@ -8,5 +8,5 @@
 
 ## Step2.
 將兩個壓縮檔分別解壓縮，並創建一個資料夾後，分別將`.exe`及`user_setting`資料夾放入
-![image]()
+![image](https://github.com/ddddo86/mcfallout_ddddoBOT_client/blob/main/docs/pic/folder.jpg)
 
