@@ -18,7 +18,7 @@
 ## Step3.
 設定Discord Bot
 
-[點擊連結前往教學頁面](Discord Bot Tutorial.md)
+[點擊連結前往教學頁面](Tutorial_Discord Bot.md)
 
 ## Step4.
 開啟user_setting資料夾內的`user_setting.toml`
