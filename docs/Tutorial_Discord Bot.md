@@ -1,10 +1,11 @@
 #Didcord Bot設定教學
 
-[**初次設定**](#-Step1.)
+[**初次設定(創建Discord Bot)**](#-Step1.)
+[**邀請已建立的Bot進入伺服器**](#-Step5.)
 
 ## Step1.
 
-進入網站[https://discord.com/developers/applications]<https://discord.com/developers/applications> 並登入
+進入網站 <https://discord.com/developers/applications> 並登入
 
 ## Step2.
 
@@ -22,8 +23,34 @@
 
 將第三個選項`(MESSAGE CONTENT INTENT)`開啟
 
-回到該頁上方頭貼右方，點擊Reset Token
+![image](https://github.com/ddddo86/mcfallout_ddddoBOT_client/blob/main/docs/pic/discord_bot_step3.jpg)
 
-點擊Copy並將它貼在setting.json的token中
+回到該頁上方頭貼右方，點擊`Reset Token`
 
-注意! 請勿將Token外流，否則他人將能夠隨意控制您的DC BOT
+![image](https://github.com/ddddo86/mcfallout_ddddoBOT_client/blob/main/docs/pic/discord_bot_reset_token.jpg)
+
+點擊Copy並將它貼在`setting.toml`的`token`中
+
+**注意! 請勿將Token外流，否則他人將能夠隨意控制您的DC BOT**
+
+## Step4. (開啟開發者模式)
+
+開啟Discord開發者模式(使用者設定-應用程式設定-進階-開發者模式)
+
+![image](https://github.com/ddddo86/mcfallout_ddddoBOT_client/blob/main/docs/pic/discord_bot_api.jpg)
+
+## Step5.
+
+回到網頁，點擊左方`OAuth2`並進入`URL Generator`頁籤
+
+![image](https://github.com/ddddo86/mcfallout_ddddoBOT_client/blob/main/docs/pic/discord_bot_url.jpg) 
+
+勾選`bot`選項，再勾選下方的`Administrator`選項
+
+![image](https://github.com/ddddo86/mcfallout_ddddoBOT_client/blob/main/docs/pic/discord_bot_access.jpg)
+
+網頁滾動至底部，複製下方網址並連線至網頁
+
+將Bot加入抽獎城DC群中
+
+![image](docs/pic/discord_bot_add.jpg)
