@@ -61,6 +61,8 @@
     notice_log_channel_name = '通知'          #通知頁頻道名稱 (可自訂但需與DC群內頻道相符)
 ```
 
+[如何開啟開發者模式](Tutorial_Discord Bot.md#-Step4. (開啟開發者模式))
+
 ## Step5. (無額外功能者可直接[跳過](#-Step5.))
 
 開啟user_setting資料夾內的`extra_setting.toml`
