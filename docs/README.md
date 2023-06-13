@@ -7,6 +7,9 @@ This is a Minecraft betting bot used in mcFallout.net.
 There is no English content yet.
 
 ## Download
+
+[Tutorial](Tutorial_Setting.md)
+
 ### Link
 點擊下方連結至下載頁面
 
