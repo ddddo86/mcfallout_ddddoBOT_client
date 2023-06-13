@@ -30,4 +30,21 @@
 
 點擊電腦搜尋欄位，搜尋`Powershell`
 
-![image]()
+![image](https://github.com/ddddo86/mcfallout_ddddoBOT_client/blob/main/docs/pic/powershell_open.jpg)
+
+開啟後，回到Bot資料夾，點擊上方路徑欄位並複製路徑
+
+![image](https://github.com/ddddo86/mcfallout_ddddoBOT_client/blob/main/docs/pic/path.jpg)
+
+回到PowerShell，輸入`cd`空白`你的路徑`，並按下`enter`
+```fix
+cd [path]
+```
+(\[path]請更換為自己複製的路徑)
+
+舉例
+```fix
+cd C:\Users\User\Desktop\BOT\mcfallout_ddddoBOT
+```
+
+輸入完成後，將exe檔拖曳至PowerShell內，點擊PowerShell視窗後再按下`enter`即可在PowerShell中執行
