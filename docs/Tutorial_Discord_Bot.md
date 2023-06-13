@@ -24,11 +24,11 @@
 
 將第三個選項`MESSAGE CONTENT INTENT`開啟
 
-![image](https://github.com/ddddo86/mcfallout_ddddoBOT_client/blob/main/docs/pic/discord_bot_step3.jpg)
+![image](https://github.com/ddddo86/mcfallout_ddddoBOT_client/blob/main/docs/pic/discord_bot_step3.jpg =50%x)
 
 回到該頁上方頭貼右方，點擊`Reset Token`
 
-![image](https://github.com/ddddo86/mcfallout_ddddoBOT_client/blob/main/docs/pic/discord_bot_reset_token.jpg)
+![image](https://github.com/ddddo86/mcfallout_ddddoBOT_client/blob/main/docs/pic/discord_bot_reset_token.jpg =50%x)
 
 點擊Copy並將它貼在`setting.toml`的`token`中
 
