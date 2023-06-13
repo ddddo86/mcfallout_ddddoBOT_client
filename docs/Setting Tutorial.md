@@ -16,6 +16,11 @@
 ![image](https://github.com/ddddo86/mcfallout_ddddoBOT_client/blob/main/docs/pic/folder.jpg)
 
 ## Step3.
+設定Discord Bot
+
+[點擊連結前往教學頁面](Discord Bot Tutorial.md)
+
+## Step4.
 開啟user_setting資料夾內的`user_setting.toml`
 
 若電腦中無程式編譯軟體可使用記事本開啟
@@ -56,7 +61,7 @@
     notice_log_channel_name = '通知'          #通知頁頻道名稱 (可自訂但需與DC群內頻道相符)
 ```
 
-## Step4. (無額外功能者可直接[跳過](#-Step5.))
+## Step5. (無額外功能者可直接[跳過](#-Step5.))
 
 開啟user_setting資料夾內的`extra_setting.toml`
 
