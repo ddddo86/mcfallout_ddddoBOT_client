@@ -62,7 +62,7 @@
 
 [如何開啟開發者模式](Tutorial_Discord_Bot.md#step4-開啟開發者模式)
 
-## Step5. (無額外功能者可直接[跳過](#Step6.))
+## Step5. (無額外功能者可直接[跳過](#Step6))
 
 開啟user_setting資料夾內的`extra_setting.toml`
 
@@ -82,3 +82,9 @@
 [setting]
     default_close = false                               #簽到功能是否預設為關閉 ( false = 24小時開啟 ，true則是需要輸入指令開啟 )
 ```
+
+## Step6.
+
+確認設定檔格式無誤即可雙擊exe檔執行
+
+若仍無法正確執行請參考[常見問題](常見問題Support.md)
