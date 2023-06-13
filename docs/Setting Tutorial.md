@@ -1,5 +1,5 @@
 # 設定教學
-[**初次使用**]<#-Step1.>
+[**初次使用**](#-Step1.)
 
 [**Discord Bot設定**]<>
 
@@ -56,7 +56,7 @@
     notice_log_channel_name = '通知'          #通知頁頻道名稱 (可自訂但需與DC群內頻道相符)
 ```
 
-## Step4. (無額外功能者可直接[跳過]<#-Step5.>)
+## Step4. (無額外功能者可直接[跳過](#-Step5.))
 
 開啟user_setting資料夾內的`extra_setting.toml`
 
