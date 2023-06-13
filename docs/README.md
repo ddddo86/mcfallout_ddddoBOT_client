@@ -19,6 +19,6 @@ This program will not execute correctly without permission.
 If you want to use it, please contact Discord: ddddo#0549
 
 ## Setting
-詳細設定方式請參考[LINK]
+詳細設定方式請參考 [這裡](Tutorial_Setting.md)
 
 也可使用[LINK]來快速無誤的填入所有設定內容
