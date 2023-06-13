@@ -1,4 +1,4 @@
-#Didcord Bot設定教學
+# Didcord Bot設定教學
 
 [**初次設定(創建Discord Bot)**](#-Step1.)
 
@@ -22,7 +22,7 @@
 
 網頁滾動至下方，找到`Privileged Gateway Intents`標題
 
-將第三個選項`(MESSAGE CONTENT INTENT)`開啟
+將第三個選項`MESSAGE CONTENT INTENT`開啟
 
 ![image](https://github.com/ddddo86/mcfallout_ddddoBOT_client/blob/main/docs/pic/discord_bot_step3.jpg)
 

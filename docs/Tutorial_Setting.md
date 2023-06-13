@@ -61,7 +61,7 @@
     notice_log_channel_name = '通知'          #通知頁頻道名稱 (可自訂但需與DC群內頻道相符)
 ```
 
-[如何開啟開發者模式](Tutorial_Discord Bot.md#-Step4. (開啟開發者模式))
+[如何開啟開發者模式](https://github.com/ddddo86/mcfallout_ddddoBOT_client/blob/main/docs/Tutorial_Discord%20Bot.md#step4-%E9%96%8B%E5%95%9F%E9%96%8B%E7%99%BC%E8%80%85%E6%A8%A1%E5%BC%8F)
 
 ## Step5. (無額外功能者可直接[跳過](#-Step5.))
 
