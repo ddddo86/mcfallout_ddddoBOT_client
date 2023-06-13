@@ -53,4 +53,4 @@
 
 將Bot加入抽獎城DC群中
 
-![image](docs/pic/discord_bot_add.jpg)
+![image](https://github.com/ddddo86/mcfallout_ddddoBOT_client/blob/main/docs/pic/discord_bot_add.jpg)
