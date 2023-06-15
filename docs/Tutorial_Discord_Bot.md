@@ -28,7 +28,7 @@
 
 回到該頁上方頭貼右方，點擊`Reset Token`
 
-![image](https://github.com/ddddo86/mcfallout_ddddoBOT_client/blob/main/docs/pic/discord_bot_reset_token.jpg)
+<img src="https://github.com/ddddo86/mcfallout_ddddoBOT_client/blob/main/docs/pic/discord_bot_reset_token.jpg"  width="60%" height="30%">
 
 點擊Copy並將它貼在`setting.toml`的`token`中
 
@@ -38,20 +38,20 @@
 
 開啟Discord開發者模式(使用者設定-應用程式設定-進階-開發者模式)
 
-![image](https://github.com/ddddo86/mcfallout_ddddoBOT_client/blob/main/docs/pic/discord_bot_api.jpg)
+<img src="https://github.com/ddddo86/mcfallout_ddddoBOT_client/blob/main/docs/pic/discord_bot_api.jpg"  width="60%" height="30%">
 
 ## Step5.
 
 回到網頁，點擊左方`OAuth2`並進入`URL Generator`頁籤
 
-![image](https://github.com/ddddo86/mcfallout_ddddoBOT_client/blob/main/docs/pic/discord_bot_url.jpg) 
+<img src="https://github.com/ddddo86/mcfallout_ddddoBOT_client/blob/main/docs/pic/discord_bot_url.jpg"  width="60%" height="30%">
 
 勾選`bot`選項，再勾選下方的`Administrator`選項
 
-![image](https://github.com/ddddo86/mcfallout_ddddoBOT_client/blob/main/docs/pic/discord_bot_access.jpg)
+<img src="https://github.com/ddddo86/mcfallout_ddddoBOT_client/blob/main/docs/pic/discord_bot_access.jpg"  width="60%" height="30%">
 
 網頁滾動至底部，複製下方網址並連線至網頁
 
 將Bot加入抽獎城DC群中
 
-![image](https://github.com/ddddo86/mcfallout_ddddoBOT_client/blob/main/docs/pic/discord_bot_add.jpg)
+<img src="https://github.com/ddddo86/mcfallout_ddddoBOT_client/blob/main/docs/pic/discord_bot_add.jpg"  width="60%" height="30%">
