@@ -24,7 +24,7 @@
 
 將第三個選項`MESSAGE CONTENT INTENT`開啟
 
-![image](https://github.com/ddddo86/mcfallout_ddddoBOT_client/blob/main/docs/pic/discord_bot_step3.jpg)
+<img src="https://github.com/ddddo86/mcfallout_ddddoBOT_client/blob/main/docs/pic/discord_bot_step3.jpg"  width="60%" height="30%">
 
 回到該頁上方頭貼右方，點擊`Reset Token`
 
