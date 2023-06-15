@@ -48,7 +48,7 @@
 
 點擊電腦搜尋欄位，搜尋`PowerShell`
 
-![image](https://github.com/ddddo86/mcfallout_ddddoBOT_client/blob/main/docs/pic/powershell_open.jpg)
+<img src="https://github.com/ddddo86/mcfallout_ddddoBOT_client/blob/main/docs/pic/powershell_open.jpg"  width="60%" height="30%">
 
 開啟後，回到Bot資料夾，點擊上方路徑欄位並複製路徑
 
