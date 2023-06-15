@@ -44,7 +44,7 @@
 
 回到網頁，點擊左方`OAuth2`並進入`URL Generator`頁籤
 
-<img src="https://github.com/ddddo86/mcfallout_ddddoBOT_client/blob/main/docs/pic/discord_bot_url.jpg"  width="6%" height="3%">
+<img src="https://github.com/ddddo86/mcfallout_ddddoBOT_client/blob/main/docs/pic/discord_bot_url.jpg"  width="30%" height="15%">
 
 勾選`bot`選項，再勾選下方的`Administrator`選項
 
@@ -54,4 +54,4 @@
 
 將Bot加入抽獎城DC群中
 
-<img src="https://github.com/ddddo86/mcfallout_ddddoBOT_client/blob/main/docs/pic/discord_bot_add.jpg"  width="10%" height="5%">
+<img src="https://github.com/ddddo86/mcfallout_ddddoBOT_client/blob/main/docs/pic/discord_bot_add.jpg"  width="30%" height="15%">
