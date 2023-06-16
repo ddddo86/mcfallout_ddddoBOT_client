@@ -16,7 +16,7 @@
     check_position = [2467,99,6501]
     itemId = [179,194]
 
-[discord_setting]
+[discord_setting]      #請填頻道"名稱"
     discord_bot = true
     token = "a123456789123456789"  #勿外流
     guildID = '123456789123456789'   #群組ID，頭像右鍵
@@ -30,4 +30,6 @@
     notice_log = true                #包含DC綁定、轉帳錯誤(但現在這個壞了)
     notice_log_channel_name = '通知'
 
-    #請填頻道"名稱"
+[custom]                 #自訂義bot
+    enable = false
+    custom_position = [2467,99,6499]
