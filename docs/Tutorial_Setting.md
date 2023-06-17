@@ -60,6 +60,10 @@
     betting_log_channel_name = '下注狀態'     #金流頁頻道名稱 (可自訂但需與DC群內頻道相符)
     notice_log = true                         #通知頁是否開啟，內容包括轉帳錯誤訊息及DC綁定訊息
     notice_log_channel_name = '通知'          #通知頁頻道名稱 (可自訂但需與DC群內頻道相符)
+
+[custom]                 #自訂義bot
+    enable = false
+    custom_position = [2467,99,6499]
 ```
 
 [如何開啟開發者模式](Tutorial_Discord_Bot.md#step4-開啟開發者模式)
@@ -104,6 +108,9 @@
     betting_log_channel_name = '下注狀態'     #金流頁頻道名稱 (可自訂但需與DC群內頻道相符)
     notice_log = true                         #通知頁是否開啟，內容包括轉帳錯誤訊息及DC綁定訊息
     notice_log_channel_name = '通知'          #通知頁頻道名稱 (可自訂但需與DC群內頻道相符)
+
+[custom]                 #自訂義bot
+    enable = false
 ```
 
 [如何開啟開發者模式](Tutorial_Discord_Bot.md#step4-開啟開發者模式)
