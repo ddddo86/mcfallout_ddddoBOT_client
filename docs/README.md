@@ -3,7 +3,7 @@ This is a Minecraft betting bot used in mcFallout.net.
 
 
 ## Feature
-廢土伺服器對賭BOT
+廢土伺服器抽獎BOT
 
 There is no English content yet.
 
