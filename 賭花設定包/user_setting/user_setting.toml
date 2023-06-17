@@ -10,11 +10,10 @@
 [gamble]
     emerald_range = [0,1000]                  #綠寶石下注範圍 [下限,上限]
     coin_range = [0,10]                       #村民錠下注範圍 [下限,上限]
-    odds = 1.85                               #賠率
-    protect_odds = 2                          #破產保護倍數 ( 若 下注金額*破產保護倍數 > 餘額 => 退款 )
+    odds = [0,2,3,4,7]                        #賠率
+    protect_odds = 7                          #破產保護倍數 ( 若 下注金額*破產保護倍數 > 餘額 => 退款 )
     redstone_position = [0,60,0]              #紅石粉座標
-    check_position = [0,59,3]                 #漏斗上方空氣座標
-    itemId = [179,194]                        #輸贏物品id [ 中獎,未中獎 ] (預設為黑白羊毛)
+    check_position = [[0,59,3],[1,59,4]]      #草地座標 (任一對角)
 
 [discord_setting]
     discord_bot = true                        #是否開啟Discord Bot (使用額外功能務必開啟)
@@ -32,4 +31,3 @@
 
 [custom]                 #自訂義bot
     enable = false
-    custom_position = [2467,99,6499]
