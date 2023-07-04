@@ -1,4 +1,5 @@
 [dc_role_id]
+    ADMIN = '1125665338172907602'
     LINKED = '123456789123456789'   #已驗證身分組id
     auto_give = false
 [role]
@@ -8,3 +9,6 @@
     ]
 [setting]
     default_close = false    #true = 24hr Open
+[xlsx]
+    enable = true
+    custom_data = [true,true,false,false] #[總下注、總獲取、總中獎、總未中獎]
