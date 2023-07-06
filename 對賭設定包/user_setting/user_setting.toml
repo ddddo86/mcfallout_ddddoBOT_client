@@ -1,6 +1,7 @@
 [config]
     username = 'username'                     #填入bot的id或是隨意代號
     ip = 'mcfallout.net'
+    type = '對賭'
 [settings]
     whitelist = ["username1","username2"]     #填入白名單id，若多人需用逗號分隔
     publicity = false                         #是否開啟宣傳
@@ -14,7 +15,7 @@
     protect_odds = 2                          #破產保護倍數 ( 若 下注金額*破產保護倍數 > 餘額 => 退款 )
     redstone_position = [0,60,0]              #紅石粉座標
     check_position = [0,59,3]                 #漏斗上方空氣座標
-    itemId = [179,194]                        #輸贏物品id [ 中獎,未中獎 ] (預設為黑白羊毛)
+    itemName = ['white_wool','black_wool']    #輸贏物品id [ 中獎,未中獎 ] (預設為黑白羊毛)
 
 [discord_setting]
     discord_bot = true                        #是否開啟Discord Bot (使用額外功能務必開啟)
