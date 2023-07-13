@@ -1,6 +1,7 @@
 [config]
     username = 'username'                     #填入bot的id或是隨意代號
     ip = 'mcfallout.net'
+    type = '賭花'
 [settings]
     whitelist = ["username1","username2"]     #填入白名單id，若多人需用逗號分隔
     publicity = false                         #是否開啟宣傳
