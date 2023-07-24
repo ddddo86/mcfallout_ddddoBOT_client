@@ -5,7 +5,7 @@
 [settings]
     whitelist = ["username1","username2"]     #填入白名單id，若多人需用逗號分隔
     publicity = false                         #是否開啟宣傳
-    publicity_content = ["%123","$test"]      #宣傳內容
+    publicity_content = [["%抽獎宣傳1","$交易宣傳1"]]    #宣傳內容
     interval = 605000                         #每次宣傳的間隔時間，單位為毫秒
     log = true                                #是否將交易內容存至本地( 位置: bot資料夾/logs/日期.txt )
 [gamble]
