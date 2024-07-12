@@ -1,0 +1,9 @@
+[Discord]
+    BOT_TOKEN = ''
+    GuildID = '0123456789876' #DC群頭像右鍵-複製伺服器ID (需先開啟開發者模式)
+[Setting]
+    username = ['dd_2j4@對賭'] # botID@對賭/賭花/比大小 (須完全一致)
+    ip = 'jp.mcfallout.net'
+    debug = true
+
+#設定完成後請將檔名改為 config.toml
