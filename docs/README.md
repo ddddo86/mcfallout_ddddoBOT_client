@@ -9,7 +9,7 @@ Minecraft bot for mcFallout.net.
 [![Latest Release](https://img.shields.io/github/v/release/ddddo86/mcfallout_ddddoBOT_client?display_name=release&style=flat-square&logo=Github&logoColor=white&color=sucess)](https://github.com/ddddo86/mcfallout_ddddoBOT_client/releases/latest)
 
 ## How to Use
-[Tutorial](Tutorial_Setting.md)
+[Tutorial](Tutorial.md)
 
 ## Feature
 - 待編輯
