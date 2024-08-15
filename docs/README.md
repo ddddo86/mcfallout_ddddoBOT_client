@@ -1,30 +1,20 @@
 # mcfallout_ddddoBOT_client
 [![Discord](https://img.shields.io/badge/Join-Discord-blue?style=flat-square&logo=Discord&logoColor=white)](https://discord.gg/Bq5NtWmqcF)
 
-This is a Minecraft betting bot used in mcFallout.net.
-
-
-## Feature
 廢土伺服器抽獎BOT
 
+Minecraft bot for mcFallout.net.
 
 ## Downloads/Releases
 [![Latest Release](https://img.shields.io/github/v/release/ddddo86/mcfallout_ddddoBOT_client?display_name=release&style=flat-square&logo=Github&logoColor=white&color=sucess)](https://github.com/ddddo86/mcfallout_ddddoBOT_client/releases/latest)
 
+## How to Use
 [Tutorial](Tutorial_Setting.md)
 
-### Link
-點擊下方連結至下載頁面
+## Feature
+- 待編輯
 
-[Click here to download](https://github.com/ddddo86/mcfallout_ddddoBOT_client/releases)
 
-### Notice
-該程式在未購買狀態下無法正確執行，若有需要請聯繫DC: ddddo_0549
-
-This program will not execute correctly without permission.
-If you want to use it, please contact Discord: ddddo#0549
-
-## Setting
-詳細設定方式請參考 [這裡](Tutorial_Setting.md)
-
-也可使用[LINK]來快速無誤的填入所有設定內容
+## Notice
+- 該程式在未開通狀態下無法正確執行，若有需要請聯繫DC: ddddo_0549
+- 使用時需同意EULA
