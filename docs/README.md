@@ -1,13 +1,15 @@
 # mcfallout_ddddoBOT_client
+[![Discord](https://img.shields.io/badge/Join-Discord-blue?style=flat-square&logo=Discord&logoColor=white)](https://discord.gg/Bq5NtWmqcF)
+
 This is a Minecraft betting bot used in mcFallout.net.
 
 
 ## Feature
 廢土伺服器抽獎BOT
 
-There is no English content yet.
 
-## Download
+## Downloads/Releases
+[![Latest Release](https://img.shields.io/github/v/release/ddddo86/mcfallout_ddddoBOT_client?display_name=release&style=flat-square&logo=Github&logoColor=white&color=sucess)](https://github.com/ddddo86/mcfallout_ddddoBOT_client/releases/latest)
 
 [Tutorial](Tutorial_Setting.md)
 
