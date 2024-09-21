@@ -17,4 +17,4 @@ Minecraft bot for mcFallout.net.
 
 ## Notice
 - 該程式在未開通狀態下無法正確執行，若有需要請聯繫DC: ddddo_0549
-- 使用時需同意EULA
+- 使用時需同意[EULA](https://discord.com/channels/993854322746073138/1128708758248370186/1128725353192505499)
