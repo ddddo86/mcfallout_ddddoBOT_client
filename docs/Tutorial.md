@@ -8,6 +8,7 @@
 | [DC_commands.md](DC_commands.md) | 查看所有 Discord bot 的指令內容 |
 | [MC_commands.md](MC_commands.md) | 查看所有 Minecraft bot 的指令內容 |
 
+
 ## Step1.
 請先至[**連結**](https://github.com/ddddo86/mcfallout_ddddoBOT_client/releases)下載最新版本執行檔及相應版本`user_setting.zip`
 
