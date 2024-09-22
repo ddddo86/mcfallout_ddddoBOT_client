@@ -2,7 +2,7 @@
 
 | Link | Description |
 |---|---|
-| [Basic](Tutorial.md#step1) | 準備需要的檔案 |
+| [Basic](Tutorial.md#step0) | 準備需要的檔案 |
 | [Discord_Bot.md](Discord_Bot.md) | 建置一個 Discord bot |
 | [config.md](config.md) | 設定 config.toml |
 | [setting.md](setting.md) | 在 Discord 內設定你的 bot |
