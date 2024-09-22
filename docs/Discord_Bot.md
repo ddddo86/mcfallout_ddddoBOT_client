@@ -4,6 +4,8 @@
 |---|---|
 | [Step1.](Discord_Bot.md#step1-建立一個-discord-bot) | 建立一個 Discord bot |
 | [Step2.](Discord_Bot.md#step2-邀請-discord-bot-至-discord-伺服器) | 邀請 Discord bot 至 Discord 伺服器 |
+| [Step3.](Discord_Bot.md#step3-開啟-discord-開發者模式) | 開啟 Discord 開發者模式 |
+| [Step4.](Discord_Bot.md#step4-取得伺服器id) | 取得伺服器id |
 
 ## Step1. 建立一個 Discord bot
 
@@ -52,3 +54,15 @@
 將Bot加入抽獎城DC群中
 
 <img src="https://github.com/ddddo86/mcfallout_ddddoBOT_client/blob/main/docs/pic/discord_bot_add.jpg"  width="30%" height="15%">
+
+## Step3. 開啟 Discord 開發者模式
+
+回到 Discord ，依序點選 `使用者設定` - `進階` - `開發者模式`
+
+<img src="https://github.com/ddddo86/mcfallout_ddddoBOT_client/blob/main/docs/pic/discord_bot_api.jpg"  width="60%" height="30%">
+
+## Step4. 取得伺服器ID
+
+開啟開發者模式後，右鍵抽獎城Discord伺服器，點選`複製伺服器ID`
+
+將伺服器ID暫時貼上於剛剛建立的空白記事本中
