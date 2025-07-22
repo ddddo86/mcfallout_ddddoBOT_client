@@ -5,8 +5,8 @@
 | [Basic](Tutorial.md#step0) | 準備需要的檔案 |
 | [Discord_Bot.md](Discord_Bot.md) | 建置一個 Discord bot |
 | [config.md](config.md) | 設定 config.toml |
-| [setting.md](setting.md) | 在 Discord 內設定你的 bot |
-| [DC_commands.md](DC_commands.md) | 查看所有 Discord bot 的指令內容 |
+| [setting.md](setting.md) | 在 Discord 內設定你的 bot(現在沒有東西) |
+| [DC_commands.md](DC_commands.md) | 查看所有 Discord bot 的指令內容(這裡也沒有東西) |
 | [MC_commands.md](MC_commands.md) | 查看所有 Minecraft bot 的指令內容 |
 
 
